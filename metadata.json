@@ -1,0 +1,5 @@
+{
+  "name": " AI Expense Tracker",
+  "description": "A smart expense tracker that uses AI to automatically categorize your spending. Log your expenses, see where your money goes with insightful charts, and manage your finances effortlessly.",
+  "requestFramePermissions": []
+}
